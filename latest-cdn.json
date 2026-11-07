@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.0",
-    "notes":  "新增：商品图片去中文（阿里百炼改图，有用信息翻译成英文、广告字去掉，改完 AI 核对）；在线更新。",
-    "pub_date":  "2026-11-07T06:24:18Z",
+    "version":  "0.4.1",
+    "notes":  "修复：DeepSeek 等模型服务出故障时，自动换用你接入的另一家模型继续（比如阿里百炼），不再一直报错；按钮背后出错时会提示，不再没反应。",
+    "pub_date":  "2026-11-07T08:03:13Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbFlvdVFvOGNRMHE1WW15aUJ2T04rczBQK2Y4VVFtNlg4Rm5xZkhyV2VWNDllZTc5U015TmtyUU9MT1RYM1VuWWI2U3hTeGU4Y1Y1RzgzTUwwTmdkekdMZDlTemVnMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDMyNjU3CWZpbGU65LqR5biGXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApJOUF6bmMxRUViTXVKZS82UXQ4NGFLdlYveTJpNUZHZXUvL01TZURHWDlPVEMxNjRaRG1aUkVReHUrRFFRcTVCMlQyYVhIeFhGUjVSZS82YWg3bllBUT09Cg==",
-                                             "url":  "https://github.com/KirinWhip/yunfan-releases/releases/download/v0.4.0/Yunfan_0.4.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbFlvdVFvOGNRMHQ4RXRmYXVCUDBuai8yYk0xNE1JVzY2MFhaQTUwQU04clhYeWdCRkxNSyt1MTh6cWFYOG9zRzhBYjVRQWhkUlB4WktLS1ZSMWlOOXp1cDNuN0dNZmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM4NTkzCWZpbGU65LqR5biGXzAuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMQpyWE1aSzF0SytUbmljRWJSWHpxb3ZCa2JMVWJucHhqSHVHVE9wcHo1YXQ5UDdmWTFJa2pLL2ZtWSs4YS85SnFwMDRzUlJKQmdDQWZ6dSs3ZjNMNlJEdz09Cg==",
+                                             "url":  "https://github.com/KirinWhip/yunfan-releases/releases/download/v0.4.1/Yunfan_0.4.1_x64-setup.exe"
                                          }
                   }
 }
