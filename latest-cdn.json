@@ -1,11 +1,11 @@
 {
-    "version":  "0.4.1",
-    "notes":  "修复：DeepSeek 等模型服务出故障时，自动换用你接入的另一家模型继续（比如阿里百炼），不再一直报错；按钮背后出错时会提示，不再没反应。",
-    "pub_date":  "2026-11-07T08:03:13Z",
+    "version":  "0.4.2",
+    "notes":  "安全和稳定性加固（外部审查 28 项）：重新上架改为原地更新、不会误删商品；不会改到正在线上的主题；撤回更安全；AI 写的内容清洗更严；密钥只发往官方地址；授权服务器出错不会降级。",
+    "pub_date":  "2026-11-07T09:17:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbFlvdVFvOGNRMHQ4RXRmYXVCUDBuai8yYk0xNE1JVzY2MFhaQTUwQU04clhYeWdCRkxNSyt1MTh6cWFYOG9zRzhBYjVRQWhkUlB4WktLS1ZSMWlOOXp1cDNuN0dNZmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM4NTkzCWZpbGU65LqR5biGXzAuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMQpyWE1aSzF0SytUbmljRWJSWHpxb3ZCa2JMVWJucHhqSHVHVE9wcHo1YXQ5UDdmWTFJa2pLL2ZtWSs4YS85SnFwMDRzUlJKQmdDQWZ6dSs3ZjNMNlJEdz09Cg==",
-                                             "url":  "https://github.com/KirinWhip/yunfan-releases/releases/download/v0.4.1/Yunfan_0.4.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbFlvdVFvOGNRMHZQSng2b1pRMlUvU01USExNQlhvWVJJeDdTMm9BNDZwNDJ1RW1vaC9iKzYweWJJVWFwTTh3THVXbVJTUjRwY0ZrUnlVQ2QybzdkSTRzMkRVUmdJTmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDQzMDc2CWZpbGU65LqR5biGXzAuNC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMgpmNzFjR3BhRWZBQUNicVJFSWRJRlpwcjNTNDBjRlczS1JOeXd3TWFQWmVUS0tiTlB0Z0tNSnRXTnBmbXovM05pZnJVNmoyeEdRb2hTWFFOY1d4ODhBdz09Cg==",
+                                             "url":  "https://github.com/KirinWhip/yunfan-releases/releases/download/v0.4.2/Yunfan_0.4.2_x64-setup.exe"
                                          }
                   }
 }
